@@ -24,8 +24,8 @@ There are three things that you need in order to build a Jupyter Book, each of w
 For example, take a look at the book that you just created:
 
 ```console
-$ tree mybookname
-mybookname/
+$ tree mynewbook
+mynewbook
 ├── _config.yml
 ├── _toc.yml
 ├── intro.md
